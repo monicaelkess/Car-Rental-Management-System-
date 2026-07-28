@@ -3,9 +3,9 @@ public class Customer {
     private int id;
     private String name;
     private String phone;
-    private int rentedCarId;        // -1 means the customer has no car
-    private int numberOfRentedDays; // 0 when nothing is rented
-    private double totalPaid;       // sum of everything ever paid
+    private int rentedCarId;
+    private int numberOfRentedDays;
+    private double totalPaid;
 
 
     private static int count = 0;

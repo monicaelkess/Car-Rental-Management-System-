@@ -1,7 +1,3 @@
-/**
- * Represents a single vehicle in the SpeedWay Rentals fleet.
- * This is the parent class for all vehicle types (regular and luxury cars).
- */
 public class Car {
 
     private int id;
